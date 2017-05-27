@@ -1,0 +1,7 @@
+{
+	"port": 8097,
+	"webhook": "/bot/message",
+	"botPlatform": {
+		"url": "http://35.161.8.190/v1/bot"
+	}
+}
