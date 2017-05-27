@@ -1,0 +1,20 @@
+{
+  "name": "dog-helper",
+  "version": "1.0.0",
+  "description": "a chatbot can help bot owner.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zzhoutest/dog-helper.git"
+  },
+  "author": "z.zhou",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zzhoutest/dog-helper/issues"
+  },
+  "homepage": "https://github.com/zzhoutest/dog-helper#readme",
+  "dependencies": {}
+}
